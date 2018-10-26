@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buzzer</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_watch">Watch</string>
+</resources>
